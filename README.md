@@ -55,4 +55,4 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ajieprasetya&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-Author : [Fauzan Kamil](https://github.com/ajieprasetya/)
+Author : [Ajie Prasetya](https://github.com/ajieprasetya/)
